@@ -1,0 +1,11 @@
+c:\users\michael\documents\visual studio 2012\Projects\managed\managed\bin\Debug\managed.exe.config
+c:\users\michael\documents\visual studio 2012\Projects\managed\managed\obj\Debug\managed.csprojResolveAssemblyReference.cache
+c:\users\michael\documents\visual studio 2012\Projects\managed\managed\obj\Debug\managed.Form1.resources
+c:\users\michael\documents\visual studio 2012\Projects\managed\managed\obj\Debug\managed.Properties.Resources.resources
+c:\users\michael\documents\visual studio 2012\Projects\managed\managed\obj\Debug\managed.csproj.GenerateResource.Cache
+c:\users\michael\documents\visual studio 2012\Projects\managed\managed\bin\Debug\managed.exe
+c:\users\michael\documents\visual studio 2012\Projects\managed\managed\bin\Debug\managed.pdb
+c:\users\michael\documents\visual studio 2012\Projects\managed\managed\bin\Debug\ulib.dll
+c:\users\michael\documents\visual studio 2012\Projects\managed\managed\bin\Debug\ulib.pdb
+c:\users\michael\documents\visual studio 2012\Projects\managed\managed\obj\Debug\managed.exe
+c:\users\michael\documents\visual studio 2012\Projects\managed\managed\obj\Debug\managed.pdb
